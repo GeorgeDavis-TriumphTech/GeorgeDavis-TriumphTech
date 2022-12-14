@@ -5,12 +5,12 @@ I'm happy to share some of the cool projects that I have been working on at Tren
 
 ### `Code` :octocat:
 
-The repositories (both public and private) are a collection of work that I've worked on/collaborated for Trend Micro and can be used/fixed/improved/shared with the same good intentions it was written.
+The repositories (both public and private) are a collection of work that I've worked on/collaborated for Triumph Tech and can be used/fixed/improved/shared with the same good intentions it was written.
 
 
 ### `Work` :nerd_face:
 
-I'm a DevOps & Cloud Solution Architect with my speciality in product design, development and infrastructure. Currently, I am working as a Cloud Solutions Architect for Trend Micro.
+I'm aa AWS Solutions Architect with my speciality in product design, development, infrastructure and DevOps. Currently, I am working as a Solutions Architect for Triumph Tech.
 
 
 ### `Contribute` :clap:
